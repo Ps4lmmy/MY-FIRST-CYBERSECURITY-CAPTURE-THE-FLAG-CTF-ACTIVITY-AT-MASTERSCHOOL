@@ -8,10 +8,10 @@ The CTF challenge covers the following aspects:
     - **User Switch:** Once the new user has been created, switch your session to that user. This step will involve using command-line authentication.
     - **Folder and File Creation:** As the new user, create a new directory. Create a file and write a simple message inside this directory. Your message could be something like "Hello from [your username]!". Remember to save the file before proceeding.
     - **Switch Back to Original User:** After successfully writing the message, switch back to your original user session, which for this exercise, is 'ctf'.
-1. File System Flags
-2. Webpage Flags
-3. Hidden Flags Challenge
-4. Hash Cracking
+2. File System Flags
+3. Webpage Flags
+4. Hidden Flags Challenge
+5. Hash Cracking
 
 ## STEP 1:
 
