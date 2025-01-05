@@ -1,4 +1,4 @@
-# MY-FIRST-CYBERSECURITY-CAPTURE-THE-FLAG-CTF-ACTIVITY-AT-MASTERSCHOOL
+# First-cybersecurity-capture-the-flag-ctf-activity
 
 The CTF challenge covers the following aspects:
 
@@ -16,7 +16,7 @@ The CTF challenge covers the following aspects:
 ## STEP 1:
 
 Connecting to the target machine using Secure Shell (SSH) with the syntax `ssh user@targetip`.
-<img src='(https://prod-files-secure.s3.us-west-2.amazonaws.com/63cecca4-b1b0-4766-90e0-e7af74a99532/d1dfd723-cf25-4da6-ba33-a93da7d506a1/Untitled.jpeg)'>
+<img src='Folder/Untitled.jpeg'>
 
 When i connected to the machine i was welcomed with the **First Flag {h4ck3r5_r_us}.**  
 
